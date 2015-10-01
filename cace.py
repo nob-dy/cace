@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python2
 #CMS Admin Command Execution
 #Author: @dsrbr
 #Tested on:
